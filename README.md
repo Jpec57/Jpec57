@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpec57"/>
 
-# Highlight 
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jpec57&repo=enter_training_me"/>
-
 # Technologies
 
 <table width="320px">
